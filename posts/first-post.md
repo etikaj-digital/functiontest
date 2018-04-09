@@ -1,2 +1,3 @@
 ### My first post
-__Very__ exciting!
+Now updated!
+__Even more__ exciting!
