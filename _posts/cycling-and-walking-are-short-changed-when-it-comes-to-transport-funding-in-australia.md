@@ -1,7 +1,9 @@
 ---
 authors : [3xsFrD9YzCE0Wge4sAWYme, FfSiL68yekGw8Y2UOCUGA, TStPC6JgmOiAAUYaQ2ieq, 4hRChjlNawGimCKu4iwO6Y]
 guid : http://theconversation.com/cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia-92574
-featureImage : 3f6EtVt3eMa2SqMSUYkWaA
+featureImage : 
+  id : 3f6EtVt3eMa2SqMSUYkWaA
+  url : http:/cdn.some.place/image.file
 tags : [bicycling, bike riding, brisbane, cities, cities & policy, cycling, infrastructure, melbourne, sydney, transport, transport policy, walking, car culture]
 category : cities
 lead : New analysis reveals just how little is spent on cycling and walking projects around Australia. No state's spending on cycling is more than 1.5% of its road funding.
